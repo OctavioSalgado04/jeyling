@@ -1,0 +1,47 @@
+.img {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .letras {
+    margin-top: 2rem;
+    text-align: center;
+    color: crimson;
+  }
+    .boton {
+        
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+  }
+  .btn-ig{
+    background-color: aqua;
+    border-radius: 0.1cm;
+    height: 10rem;
+    width: 10rem;
+  }
+
+  .btn-ig2{
+    background-color: aqua;
+    border-radius: 0.1cm;
+    height: 20rem;
+    width: 20rem;
+  }
+
+  .btn-ig3{
+    background-color: aqua;
+    border-radius: 0.1cm;
+    height: 30rem;
+    width: 30rem;
+  }
+.btn-ig4{
+    background-color: aqua;
+    border-radius: 0.1cm;
+    height: 40rem;
+    width: 40rem;
+  }
+  .final{
+    text-align: center;
+    color: crimson;
+  }
